@@ -1,0 +1,17 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.properties
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+nbproject/
+nbactions.xml
+.classpath
+.project
+.settings/
+
+# Sistema
+.DS_Store
+Thumbs.db
